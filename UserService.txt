@@ -1,2 +1,4 @@
 User name is present here....
 Process the data..
+
+create an avatar user 
